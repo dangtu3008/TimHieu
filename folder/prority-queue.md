@@ -3,7 +3,7 @@
 >- Containers chứa các class về cấu trúc dữ liệu.
 >- Container adaptor là các container được sử dụng cho các cấu trúc lưu trữ đặc biệt
 
-- Được thiết kế đặc biệt để phần tử ở đầu luôn luôn lớn nhất so với các phần tử khác.
+- Được thiết kế đặc biệt để phần tử ở đầu luôn luôn lớn nhất so với các phần tử khác **(theo một quy ước về độ ưu tiên nào đó)**.
 - Nó giống như một heap, mà ở đây là heap max, tức là phần tử có độ ưu tiên lớn nhất có thể được lấy ra và các phần tử khác được chèn vào bất kì.
 
 >Heap thực chất là một cây cân bằng thỏa mãn các điều kiện sau  
